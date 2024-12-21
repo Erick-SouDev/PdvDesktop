@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ewrick.br.pdv.controller;
+package erick.br.pdv.controller;
 
 import erick.br.pdv.dao.UsuarioDao;
 import erick.br.pdv.util.UsuarioTableModel;

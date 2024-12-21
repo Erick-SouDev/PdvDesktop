@@ -5,10 +5,7 @@
  */
 package erick.br.pdv.entity;
 
-/**
- *
- * @author quitumba
- */
+
 public interface Estado {
     public void reset();
     public void mudarEstado();

@@ -8,10 +8,7 @@ package erick.br.pdv.util;
 import java.awt.event.MouseEvent;
 import javax.swing.event.MouseInputListener;
 
-/**
- *
- * @author quitumba
- */
+
 public abstract class AbstractMouseListener implements MouseInputListener{
 
     @Override

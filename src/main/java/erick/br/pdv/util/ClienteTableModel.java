@@ -9,10 +9,7 @@ import erick.br.pdv.entity.Cliente;
 import java.util.List;
 import javax.swing.table.AbstractTableModel;
 
-/**
- *
- * @author quitumba
- */
+
 public class ClienteTableModel extends AbstractTableModel{
     
     private List<Cliente> clientes;

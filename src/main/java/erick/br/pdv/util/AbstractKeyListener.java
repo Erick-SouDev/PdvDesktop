@@ -8,10 +8,7 @@ package erick.br.pdv.util;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-/**
- *
- * @author quitumba
- */
+
 public abstract class AbstractKeyListener implements KeyListener{
     
     @Override

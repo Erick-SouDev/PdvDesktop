@@ -5,22 +5,17 @@
  */
 package erick.br.pdv.views;
 
-import ewrick.br.pdv.controller.AutenticacaoController;
+import erick.br.pdv.controller.AutenticacaoController;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
-/**
- *
- * @author quitumba
- */
+
 public class LoginForm extends javax.swing.JFrame {
     
     private AutenticacaoController autenticacaoController;
 
-    /**
-     * Creates new form LoginForm
-     */
+   
     public LoginForm() {
         initComponents();
         setLocationRelativeTo(null);

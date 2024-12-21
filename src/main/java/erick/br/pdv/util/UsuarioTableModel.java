@@ -9,10 +9,7 @@ import erick.br.pdv.entity.Usuario;
 import java.util.List;
 import javax.swing.table.AbstractTableModel;
 
-/**
- *
- * @author quitumba
- */
+
 public class UsuarioTableModel extends AbstractTableModel {
     
     private List<Usuario> usuarios;

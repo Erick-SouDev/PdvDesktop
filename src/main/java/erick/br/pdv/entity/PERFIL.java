@@ -5,11 +5,8 @@
  */
 package erick.br.pdv.entity;
 
-/**
- *
- * @author quitumba
- */
+
 public enum PERFIL {
     ADMIN,
-    PADRAO;
+    OPERADOR;
 }

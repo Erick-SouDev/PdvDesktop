@@ -7,10 +7,7 @@ package erick.br.pdv.entity;
 
 import java.util.Objects;
 
-/**
- *
- * @author quitumba
- */
+
 public class Categoria {
     private Long id;
     private String nome;

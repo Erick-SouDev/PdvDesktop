@@ -5,12 +5,12 @@
  */
 package erick.br.pdv.views;
 
-import ewrick.br.pdv.controller.CategoriaController;
-import ewrick.br.pdv.controller.ClienteController;
-import ewrick.br.pdv.controller.DashboardController;
-import ewrick.br.pdv.controller.ProdutoController;
-import ewrick.br.pdv.controller.UsuarioController;
-import ewrick.br.pdv.controller.VendaController;
+import erick.br.pdv.controller.CategoriaController;
+import erick.br.pdv.controller.ClienteController;
+import erick.br.pdv.controller.DashboardController;
+import erick.br.pdv.controller.ProdutoController;
+import erick.br.pdv.controller.UsuarioController;
+import erick.br.pdv.controller.VendaController;
 import javax.swing.JButton;
 import javax.swing.JCheckBox;
 import javax.swing.JComboBox;
@@ -23,10 +23,7 @@ import javax.swing.JTable;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-/**
- *
- * @author quitumba
- */
+
 public class Dashboard extends javax.swing.JFrame {
 
     private DashboardController dashboardController;

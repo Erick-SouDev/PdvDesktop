@@ -13,10 +13,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 import javax.swing.table.AbstractTableModel;
 
-/**
- *
- * @author quitumba
- */
+
 public class VendaRegistroTableModel extends AbstractTableModel {
     
     private HashMap<String, VendaDetalhes> vendaDetalhes;

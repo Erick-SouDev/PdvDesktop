@@ -9,10 +9,7 @@ import erick.br.pdv.entity.Categoria;
 import java.util.List;
 import javax.swing.table.AbstractTableModel;
 
-/**
- *
- * @author quitumba
- */
+
 public class CategoriaTableModel extends AbstractTableModel {
     
     private List<Categoria> categorias;
