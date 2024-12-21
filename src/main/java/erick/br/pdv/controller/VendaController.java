@@ -37,10 +37,7 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author quitumba
- */
+
 public class VendaController extends AbstractMouseListener implements ActionListener, KeyListener {
     
     private Dashboard dashboard;

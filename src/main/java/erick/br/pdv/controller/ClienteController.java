@@ -15,10 +15,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.List;
 
-/**
- *
- * @author quitumba
- */
+
 public class ClienteController implements ActionListener {
     
     private Dashboard dashboard;

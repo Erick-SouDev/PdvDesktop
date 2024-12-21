@@ -29,10 +29,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author quitumba
- */
+
 public class ProdutoController implements ActionListener, MouseListener, KeyListener {
     
     private final Conexao conexao;

@@ -15,10 +15,7 @@ import java.util.List;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-/**
- *
- * @author quitumba
- */
+
 public final class DashboardController implements ActionListener{
     
     private final Dashboard dashboard;

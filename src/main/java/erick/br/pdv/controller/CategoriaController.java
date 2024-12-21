@@ -19,10 +19,6 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.util.List;
 
-/**
- *
- * @author quitumba
- */
 public class CategoriaController implements ActionListener, MouseListener{
     
     private Conexao conexao;
